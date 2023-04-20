@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth:Mugo 
+ * Auth:Mugo 'Betty syle'
  */
 
 #include <stdio.h>
@@ -9,8 +9,8 @@
  * main - Prints the size of various types based on
  *        the computer it is compiled and run on..
  *
- * Return: Always 0.
- */
+ * Return: Always 0 (success)
+  */
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
