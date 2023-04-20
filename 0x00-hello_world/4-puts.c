@@ -1,4 +1,7 @@
+/*
  * File: 4-puts.c
+ * Auth: grace muthoni n <375@bettyschool.com>
+ */
 
 #include <stdio.h>
 
