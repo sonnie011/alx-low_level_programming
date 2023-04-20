@@ -1,0 +1,11 @@
+#!/bin/bash
+# a first program in c
+*file : 4-puts.c
+#include<stdio.h>
+int main(void)
+{
+printf("\n Hello World \n");
+return 0;
+
+}
+
