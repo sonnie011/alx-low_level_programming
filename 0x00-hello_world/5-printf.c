@@ -1,6 +1,6 @@
 /*
  * File: 5-printf.c
- * Auth: grace muthoni 
+ * Auth: grace muthoni 'Betty style' 
  */
 
 #include <stdio.h>
