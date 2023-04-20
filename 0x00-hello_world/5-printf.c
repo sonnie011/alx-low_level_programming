@@ -1,4 +1,5 @@
- * File: 4-puts.c
+/*
+ * File: 5-printf.c
  * Auth: grace muthoni 
  */
 
@@ -12,7 +13,7 @@
  */
 int main(void)
 {
-	printf("\"with proper grammar, but the outcome is a piece of art");
+	printf("with proper grammar, but the outcome is a piece of art");
 
 	return (0);
 }
