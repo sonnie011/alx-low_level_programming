@@ -9,10 +9,10 @@
  * main: using pointer to change value of a and b
  * Return: void
  */
-void swap_int(int *a, int *b);
-(
-(  int tmp
-tmp) = *a;
-*a = *b;
-*b = tmp;
-)
+void swap_int(int *a, int *b)
+{
+	int tmp;
+	tmp = *a;
+	*a = *b;
+	*b = tmp;
+}
