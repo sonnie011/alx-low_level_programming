@@ -2,6 +2,9 @@
 #include <stdio.h>
 
 /**
+* _strcat - concatenates two strings,
+* @dest: destination.
+* @src: source.
 *main - union strings
 *
 * Return: dest.
