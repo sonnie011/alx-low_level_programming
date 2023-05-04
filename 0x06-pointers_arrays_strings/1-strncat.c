@@ -1,16 +1,13 @@
-include "main.h"
+#include "main.h"
 #include <stdio.h>
-
 /**
-* _strncat - concatenates two strings,
+*_strncat-it will use at most n bytes from src.
 * @dest: destination.
 * @src: source.
 * @n: amount of bytes used from src.
-* main - union strings
-*
 * Return: dest.
 */
-char *_strcat(char *dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n)
 {
 	int count = 0, count2 = 0;
 
